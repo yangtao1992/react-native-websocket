@@ -79,7 +79,7 @@ var checkHeart = {
 function msgHandle(evt){
     let obj = JSON.parse(evt.data);
     if(obj){
-        //根据消息类型进行对应的逻辑处理
+         //根据消息类型进行对应的逻辑处理
     }
 }
 
